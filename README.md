@@ -1,4 +1,4 @@
-# reading-notes
+# Reading-Notes
 Notes:
 
 ## Growth mindset:
@@ -13,7 +13,7 @@ know when to step away, reminds me of the fresh mind theory when trying to solve
 
 --------------
 
-> Markdownguide.org is working better for me, that cheatsheet is pretty great.
+> [MDG](www.markdownguide.org) is working better for me, that cheatsheet is pretty great.
 
 *here's my github link*
 
