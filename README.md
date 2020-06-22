@@ -17,7 +17,7 @@ know when to step away, reminds me of the fresh mind theory when trying to solve
 
 *here's my github link*
 
-[title] (https://github.com/Doktor-Doom)
+[title](https://github.com/Doktor-Doom)
 -----
 > This will all come off like flowing thoughts, so it might get weird, but it's more comfortable this way to get practice with some of the mechanics without worrying too much about what should be added content wise.
 
