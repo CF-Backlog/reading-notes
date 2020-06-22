@@ -6,3 +6,8 @@ know when to step away, reminds me of the fresh mind theory when trying to solve
 
 **my own words**
 
+> Im struggling here with seeing passed the visual theme and actually understanding the functional aspects.
+
+1. Don't spend too much time on a problem.
+2. ~~Are ordered lists lame?~~
+
