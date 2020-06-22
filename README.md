@@ -13,7 +13,7 @@ know when to step away, reminds me of the fresh mind theory when trying to solve
 
 --------------
 
-> [MDG](markdownguide.org) is working better for me, that cheatsheet is pretty great.
+> [MDG](https://www.markdownguide.org/cheat-sheet/ is working better for me, that cheatsheet is pretty great.
 
 *here's my github link*
 
