@@ -10,4 +10,6 @@
 
 ! [Nerdy things](Nerdy Stuff.jpg)
 
+> inserting a hyperlink to an image, only not from the interwebs but locally making sure the image file type is jpeg or jpg `it is kinda the same` all of this is still a hot mess and im skipping around kind of jumping in with both feet i should be reading more but im noticing that i managed get through the protein of the lab by fumbling around until it worked the important lesson was add commit push. add the changes, commit them to be pushed into the git 
+
 [Back to Main](README.md)
