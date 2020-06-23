@@ -23,4 +23,4 @@ know when to step away, reminds me of the fresh mind theory when trying to solve
 
 Column a? | Column b? | Column c?
 ---------
-Im excited about python
+Im excited about python | javasript is still a bit intimidating, only for now | something something column c
