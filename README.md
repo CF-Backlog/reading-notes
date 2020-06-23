@@ -24,3 +24,10 @@ know when to step away, reminds me of the fresh mind theory when trying to solve
 Column a? | Column b? | Column c?
 --------- | --------  | --------
 Im excited about python | javasript is still a bit intimidating, only for now | something something column c
+
+
+-----
+
+> It felt like fumbling in the dark for a while, at first i had a hard time figuring out how to properly download and install VScode and which brew. the guide worked out well eventually and i was able to go back and troubleshoot, getting the command "code" to bring up vscode.
+
+> using a notepad is also a much more low tech way of remembering certain command lines that a good to know, reading something is great, but typing/writing things out make it easier to absorb.
