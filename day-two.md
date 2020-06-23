@@ -4,4 +4,6 @@
 
 > Merging the page and info from github to my local drive was simpler than initially thought.
 
+> Cloning repository and adding to it via VSCode is gonna take some practice.
+
 [Back to Main](README.md)
