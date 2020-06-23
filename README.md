@@ -21,3 +21,6 @@ know when to step away, reminds me of the fresh mind theory when trying to solve
 -----
 > This will all come off like flowing thoughts, so it might get weird, but it's more comfortable this way to get practice with some of the mechanics without worrying too much about what should be added content wise.
 
+Column a? | Column b? | Column c?
+---------
+Im excited about python
