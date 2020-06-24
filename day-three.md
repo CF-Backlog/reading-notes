@@ -12,4 +12,5 @@
 
 > Selecting a specific element in html as a target, to add style.
 
+>Adding a logo as an image to the top of the web page I'm remembering somehting from photoshop or indesign, could have been illustrator. but having an image to add as a logo with a white background, id have to look into creating a file of the same image with either a clear background or none at all to have the pages color come through. 
 [Back to main](README.md)
