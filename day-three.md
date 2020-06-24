@@ -13,4 +13,11 @@
 > Selecting a specific element in html as a target, to add style.
 
 >Adding a logo as an image to the top of the web page I'm remembering somehting from photoshop or indesign, could have been illustrator. but having an image to add as a logo with a white background, id have to look into creating a file of the same image with either a clear background or none at all to have the pages color come through. 
+
+> Javascript is giving me the same sensation as when i started, im uncomfortable and tired and a little annoyed and it feels like my brain is wrinkling which means im learning
+
+git pull when some things dont work, git status to see and obviously ACP
+
+
+
 [Back to main](README.md)
