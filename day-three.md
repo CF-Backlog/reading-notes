@@ -18,6 +18,8 @@
 
 git pull when some things dont work, git status to see and obviously ACP
 
+> the most basic iterations of computers are machines that take  input store and process and output data while communicating in binary. 
 
+> and its come to make even more sense about the numerical values of rgb and hex codes.
 
 [Back to main](README.md)
