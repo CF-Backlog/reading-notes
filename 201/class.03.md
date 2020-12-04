@@ -1,0 +1,3 @@
+# Day 3...
+
+>Today we covered some style points in css and mostly manipulating lists and boxes accross a page, this project was helpful because it really cemented the importance of prototyping and more careful planning when implementing CSS and JS elements to an html page. the concept of Wireframing was cemented for me and although i've fallen behind some ideas of UX and Dev were bridged for me and i was able to rework my approach and start producing a cleaner more organized html, i'm trying not to get ahead of myself and keep the same work ethic when i'm building the rest of the css and js style sheets.
