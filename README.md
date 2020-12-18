@@ -26,6 +26,7 @@
 1. [**Reading 13**](class201/class-13.md)
 1. [**Reading 14**](class201/class-14.md)
 1. [**Reading 15**](class201/class-15.md)
+
 ## Class 301
 1. [**Reading 1**](class301/class-01.md)
 1. [**Reading 2**](class301/class-02.md)
@@ -42,15 +43,16 @@
 1. [**Reading 13**](class301/class-13.md)
 1. [**Reading 14**](class301/class-14.md)
 1. [**Reading 15**](class301/class-15.md)
+
 ## Class 401 Full Stack JavaScript
-1. [**Reading 0**](class401/class-00.md)
-1. [**Reading 1**](class401/class-01.md)
-1. [**Reading 2**](class401/class-02.md)
-1. [**Reading 3**](class401/class-03.md)
-1. [**Reading 4**](class401/class-04.md)
-1. [**Reading 5**](class401/class-05.md)
-1. [**Reading 6**](class401/class-06.md)
-1. [**Reading 7**](class401/class-07.md)
+1. [**Reading 0**](/401-js/Prep.md)
+1. [**Reading 1**](401-js/Class01.md)
+1. [**Reading 2**](401-js/Class02.md)
+1. [**Reading 3**](401-js/Class03.md)
+1. [**Reading 4**](401-js/Class04.md)
+1. [**Reading 5**](401-js/Class05.md)
+1. [**Reading 6**](401-js/Class06.md)
+1. [**Reading 7**](401-js/Class07.md)
 1. [**Reading 8**](class401/class-08.md)
 1. [**Reading 9**](class401/class-09.md)
 1. [**Reading 10**](class401/class-10.md)
@@ -59,6 +61,3 @@
 1. [**Reading 13**](class401/class-13.md)
 1. [**Reading 14**](class401/class-14.md)
 1. [**Reading 15**](class401/class-15.md)
-
-## Notes: Code 301
-## Notes: Code 401-js
